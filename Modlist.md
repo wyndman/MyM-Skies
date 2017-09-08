@@ -1,5 +1,3 @@
 ## Modlist
 
-Minetweaker - (Author) - Credits
-
-Chisel - (Author) - Credits
+- [Accidentally](https://minecraft.curseforge.com/projects/accidentally-circumstantial-events-ace) Zavviasso
