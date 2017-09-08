@@ -9,8 +9,8 @@ New players can read our [Wiki](https://github.com/MyM-ModpackTeam/MyM-Skies/wik
 - **Aidoneus** - *Project Lead*
 - **BroklynDatroll** - *Pack Developer*
 - **Matiepie2** - *Pack Developer*
-- **Wyndman** - *Contributer*
-- **Tuffnoodle** - *Contributer*
+- **Wyndman** - *Contributor*
+- **Tuffnoodle** - *Contributor*
 
 ### Credits
-- [Mod Developers](https://github.com/MyM-ModpackTeam/MyM-Skies/blob/master/credits.md)
+- [Mod Developers](https://github.com/MyM-ModpackTeam/MyM-Skies/blob/master/Credits.md)
