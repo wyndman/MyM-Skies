@@ -30,8 +30,6 @@ AOBTD: *Song queue* Adds more dust, and processing. +Link:
 
 Forge: Basically the floors, structure, and everything of a building. If this didn't exist, this modpack wouldn't exist, and also the building wouldn't exist. +Link:
 
-Modtweaker: All of the mod tweaks. Link: https://minecraft.curseforge.com/projects/modtweaker
-
 # From AG2
 
 Waila (by ProfMobius)
