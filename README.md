@@ -13,4 +13,4 @@ New players can read our [Wiki](https://github.com/MyM-ModpackTeam/MyM-Skies/wik
 - **Tuffnoodle** - *Contributor*
 
 ### Credits
-- [Mod Developers](https://github.com/MyM-ModpackTeam/MyM-Skies/blob/master/Credits.md)
+- [Mod Developers](https://github.com/MyM-ModpackTeam/MyM-Skies/blob/master/Modlist.md)
