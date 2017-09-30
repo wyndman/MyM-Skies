@@ -84,8 +84,6 @@
 
 - [ForgeMultipart](https://minecraft.curseforge.com/projects/forge-multi-part) chicken_bones
 
-- [Botania: Garden of Glass](https://minecraft.curseforge.com/projects/botania-garden-of-glass) bdew
-
 - [Gendustry](https://minecraft.curseforge.com/projects/gendustry) bdew
 
 - [Thaumic NEI](https://minecraft.curseforge.com/projects/thaumic-nei) gudenau
