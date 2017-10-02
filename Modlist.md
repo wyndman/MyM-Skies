@@ -20,13 +20,13 @@
 
 - [BdLib](https://minecraft.curseforge.com/projects/bdlib) bdew
 
-- [BetterQuesting](https://mods.curse.com/mc-mods/minecraft/238856-better-questing)Funwayguy
+- [BetterQuesting](https://mods.curse.com/mc-mods/minecraft/238856-better-questing) Funwayguy
 
--[BetterQuesting Standard Expansion](https://mods.curse.com/mc-mods/minecraft/238857-better-questing-standard-expansion)Funwayguy
+- [BetterQuesting Standard Expansion](https://mods.curse.com/mc-mods/minecraft/238857-better-questing-standard-expansion) Funwayguy
 
--[BetterQuesting Quest Book](https://mods.curse.com/mc-mods/minecraft/242106-better-questing-quest-book)Drethic
+- [BetterQuesting Quest Book](https://mods.curse.com/mc-mods/minecraft/242106-better-questing-quest-book) Drethic
 
--[BetterQuesting NPC Intergration](https://mods.curse.com/mc-mods/minecraft/241475-better-questing-npc-integration)Funwayguy
+- [BetterQuesting NPC Intergration](https://mods.curse.com/mc-mods/minecraft/241475-better-questing-npc-integration) Funwayguy
 
 - [BiblioCraft](https://minecraft.curseforge.com/projects/bibliocraft) Nuchaz
 
