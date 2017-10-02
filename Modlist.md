@@ -26,7 +26,7 @@
 
 -[BetterQuesting Quest Book](https://mods.curse.com/mc-mods/minecraft/242106-better-questing-quest-book)Drethic
 
--[BetterQuesting NPC Intergration(https://mods.curse.com/mc-mods/minecraft/241475-better-questing-npc-integration)Funwayguy
+-[BetterQuesting NPC Intergration](https://mods.curse.com/mc-mods/minecraft/241475-better-questing-npc-integration)Funwayguy
 
 - [BiblioCraft](https://minecraft.curseforge.com/projects/bibliocraft) Nuchaz
 
