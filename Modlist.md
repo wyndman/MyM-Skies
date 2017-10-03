@@ -216,7 +216,7 @@
 
 - [Thermal Expansion](https://minecraft.curseforge.com/projects/thermalexpansion) TeamCoFH
 
-- [Thaumic Foundation](hhttps://minecraft.curseforge.com/projects/thermal-foundation) TeamCoFH
+- [Thaumic Foundation](https://minecraft.curseforge.com/projects/thermal-foundation) TeamCoFH
 
 - [TiC Tooltips](https://minecraft.curseforge.com/projects/tic-tooltips) squeek502
 
