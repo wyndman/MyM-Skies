@@ -102,8 +102,6 @@
 
 - [High Pressure Tanks](https://minecraft.curseforge.com/projects/high-pressure-tanks) patrick96
 
-- [Hardcore Questing Mode](https://minecraft.curseforge.com/projects/hardcore-questing-mode) lorddusk
-
 - [Hunger Overhaul](https://minecraft.curseforge.com/projects/hunger-overhaul) ProgWML6
 
 - [Iguanas Tinker Tweaks](https://minecraft.curseforge.com/projects/iguanas-tinker-tweaks) boni
