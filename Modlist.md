@@ -226,7 +226,7 @@
 
 - [Traveller's Gear](https://minecraft.curseforge.com/projects/travellers-gear) BluSunrize
 
-- [TreeGuard] Jitrid
+- [TreeGuard](https://github.com/MyM-ModpackTeam/MyM-Skies/blob/master/src/mods/TreeGuard-v.1.0.0-mc1.7.10.jar)  Jitrid
 
 - [Waila](https://minecraft.curseforge.com/projects/waila) ProfMobius
 
