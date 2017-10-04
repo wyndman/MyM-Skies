@@ -7,10 +7,11 @@ New players can read our [Wiki](https://github.com/MyM-ModpackTeam/MyM-Skies/wik
 
 ### ModPack Team
 - **Aidoneus** - *Project Lead*
-- **BroklynDatroll** - *Pack Developer*
-- **Matiepie2** - *Pack Developer*
-- **Wyndman** - *Contributor*
-- **Tuffnoodle** - *Contributor*
+- **Wyndman** - *Project Developer
+- **Matiepie2** - *Project Developer*
+- **BroklynDatroll** - *Contributor*
+- **Tuffnoodle** - *Artist*
+- **Jitrid** - *Mod Developer/Contributor*
 
 ### Credits
 - [Mod Developers](https://github.com/MyM-ModpackTeam/MyM-Skies/blob/master/Modlist.md)
