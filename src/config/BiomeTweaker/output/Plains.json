@@ -57,6 +57,18 @@
       "Weight": 5,
       "Min Group Count": 2,
       "Max Group Count": 6
+    },
+    {
+      "Entity Class": "feyberryjam.minecraft.druidry.entity.friendly.EntityUnicorn",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.emoniph.witchery.entity.EntityGoblin",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 2
     }
   ],
   "Spawnable Monsters": [
@@ -103,6 +115,12 @@
       "Max Group Count": 1
     },
     {
+      "Entity Class": "feyberryjam.minecraft.druidry.entity.monster.boss.EntitySkelebro",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
       "Entity Class": "tconstruct.world.entity.BlueSlime",
       "Weight": 1,
       "Min Group Count": 4,
@@ -141,6 +159,12 @@
       "Weight": 10,
       "Min Group Count": 8,
       "Max Group Count": 8
+    },
+    {
+      "Entity Class": "com.emoniph.witchery.entity.EntitySpirit",
+      "Weight": 1,
+      "Min Group Count": 2,
+      "Max Group Count": 5
     }
   ],
   "Spawn Biome": true,

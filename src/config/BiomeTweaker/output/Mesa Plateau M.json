@@ -23,7 +23,14 @@
     "SANDY"
   ],
   "BiomeManager Entries": {},
-  "Spawnable Creatures": [],
+  "Spawnable Creatures": [
+    {
+      "Entity Class": "feyberryjam.minecraft.druidry.entity.friendly.EntityUnicorn",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    }
+  ],
   "Spawnable Monsters": [
     {
       "Entity Class": "net.minecraft.entity.monster.EntitySpider",
@@ -64,6 +71,12 @@
     {
       "Entity Class": "net.minecraft.entity.monster.EntityWitch",
       "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "feyberryjam.minecraft.druidry.entity.monster.boss.EntitySkelebro",
+      "Weight": 1,
       "Min Group Count": 1,
       "Max Group Count": 1
     },

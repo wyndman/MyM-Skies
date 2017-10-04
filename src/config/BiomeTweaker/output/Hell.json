@@ -50,6 +50,12 @@
       "Max Group Count": 4
     },
     {
+      "Entity Class": "com.emoniph.witchery.entity.EntityHellhound",
+      "Weight": 25,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
       "Entity Class": "thaumcraft.common.entities.monster.EntityFireBat",
       "Weight": 10,
       "Min Group Count": 1,
