@@ -226,6 +226,8 @@
 
 - [Traveller's Gear](https://minecraft.curseforge.com/projects/travellers-gear) BluSunrize
 
+- [TreeGuard] Jitrid
+
 - [Waila](https://minecraft.curseforge.com/projects/waila) ProfMobius
 
 - [Waila Harvestability](https://minecraft.curseforge.com/projects/waila-harvestability) squeek502
