@@ -56,6 +56,8 @@
 
 - [Custom Main Menu](https://minecraft.curseforge.com/projects/custom-main-menu) Lumien
 
+- [Custom NPCs](https://minecraft.curseforge.com/projects/custom-npcs) Noppes
+
 - [Ding](https://minecraft.curseforge.com/projects/ding) iChun
 
 - [Druidry](https://minecraft.curseforge.com/projects/druidry) FeyberryJam
@@ -229,3 +231,5 @@
 - [Waila Harvestability](https://minecraft.curseforge.com/projects/waila-harvestability) squeek502
 
 - [Witching Gadgets](https://minecraft.curseforge.com/projects/witching-gadgets) BluSunrize
+
+- [Witchery](http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/wip-mods/1445248-witchery-0-24-1) Emoniph
