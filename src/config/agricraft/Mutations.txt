@@ -34,6 +34,7 @@ AgriCraft:seedSilverweed=AgriCraft:seedAurigold+AgriCraft:seedAllium
 AgriCraft:seedJaslumine=AgriCraft:seedFerranium+minecraft:wheat_seeds
 AgriCraft:seedNiccissus=AgriCraft:seedAurigold+AgriCraft:seedDandelion
 AgriCraft:seedPlatiolus=AgriCraft:seedDiamahlia+AgriCraft:seedFerranium
+AgriCraft:seedOsmonium=AgriCraft:seedFerranium+AgriCraft:seedOrchid
 AgriCraft:seedBotaniaRed=AgriCraft:seedPoppy+AgriCraft:seedTulipRed
 AgriCraft:seedBotaniaYellow=AgriCraft:seedDandelion+AgriCraft:seedTulipOrange
 AgriCraft:seedBotaniaBlue=AgriCraft:seedOrchid+AgriCraft:seedAllium
