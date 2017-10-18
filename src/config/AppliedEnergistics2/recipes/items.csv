@@ -5516,6 +5516,53 @@ customnpcs:npcCandle, Candle
 customnpcs:npcCampfireUnlit, Campfire
 customnpcs:npcLampUnlit, Candle
 customnpcs:npcCandleUnlit, Lamp
+DraconicEvolution:xRayBlock, Distortion Flame
+DraconicEvolution:weatherController, Weather Controller
+DraconicEvolution:sunDial, Sun Dial
+DraconicEvolution:draconiumOre, Draconium Ore
+DraconicEvolution:grinder, Mob Grinder
+DraconicEvolution:potentiometer, Potentiometer
+DraconicEvolution:rainSensor, Rain Sensor
+DraconicEvolution:particleGenerator, Particle Generator
+DraconicEvolution:playerDetector, Player Detector
+DraconicEvolution:playerDetectorAdvanced, Advanced Player Detector
+DraconicEvolution:energyInfuser, Energy Infuser
+DraconicEvolution:customSpawner, Stabilized Mob Spawner
+DraconicEvolution:generator, Generator
+DraconicEvolution:energyStorageCore, Energy Core
+DraconicEvolution:draconium:0, Draconium Block
+DraconicEvolution:draconium:1, Resurrection Stone
+DraconicEvolution:draconium:2, Charged Draconium Block
+DraconicEvolution:invisibleMultiblock, Energy Core
+DraconicEvolution:energyPylon, Energy Pylon
+DraconicEvolution:placedItem, tile.draconicevolution:placedItem.name
+DraconicEvolution:safetyFlame, tile.draconicevolution:safetyFlame.name
+DraconicEvolution:cKeyStone:0, Creative Key Stone
+DraconicEvolution:cKeyStone:1, Creative Key Stone
+DraconicEvolution:cKeyStone:2, Creative Key Stone
+DraconicEvolution:cKeyStone:3, Creative Key Stone
+DraconicEvolution:dissEnchanter, Disenchanter
+DraconicEvolution:teleporterStand, Dislocator Pedestal
+DraconicEvolution:draconiumChest, Draconic Chest
+DraconicEvolution:draconicBlock, Awakened Draconium Block
+DraconicEvolution:energyCrystal:0, Energy Relay
+DraconicEvolution:energyCrystal:1, Advanced Energy Relay
+DraconicEvolution:energyCrystal:2, Energy Transceiver
+DraconicEvolution:energyCrystal:3, Advanced Energy Transceiver
+DraconicEvolution:energyCrystal:4, Wireless Energy Transceiver
+DraconicEvolution:energyCrystal:5, Advanced Wireless Transceiver
+DraconicEvolution:infusedObsidian, Draconium Infused Obsidian
+DraconicEvolution:dislocatorReceptacle, Dislocator Receptacle
+DraconicEvolution:portal, Portal
+DraconicEvolution:reactorCore, Draconic Reactor Core
+DraconicEvolution:flowGate:0, Flux Gate
+DraconicEvolution:flowGate:6, Fluid Gate
+DraconicEvolution:reactorStabilizer, Reactor Stabilizer
+DraconicEvolution:reactorEnergyInjector, Reactor Energy Injector
+DraconicEvolution:chaosCrystal, Chaos Crystal
+DraconicEvolution:upgradeModifier, Upgrade Modifier
+DraconicEvolution:longRangeDislocator:1, Admin Dislocator
+DraconicEvolution:chaosShardAtmos, tile.draconicevolution:chaosShardAtmos.name
 druidry:DruidryFlower:0, Black Skye Flower
 druidry:DruidryFlower:1, Purple Skye Flower
 druidry:DruidryFlower:2, Green Skye Flower
@@ -5734,7 +5781,7 @@ RedstoneArsenal:Storage:1, Flux Crystal Block
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quail Eating Ducks)
+ExtraUtilities:endConstructor:0, QED (Quantum Entanglement Diviner)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -6496,6 +6543,39 @@ exastris:CobaltOreBlock:2, Cobalt Ore Dust
 exastris:ArditeOreBlock:0, Ardite Ore Gravel
 exastris:ArditeOreBlock:1, Ardite Ore Sand
 exastris:ArditeOreBlock:2, Ardite Ore Dust
+excompressum:compressed_dust:0, Compressed Dust
+excompressum:compressed_dust:1, Compressed Cobblestone
+excompressum:compressed_dust:2, Compressed Gravel
+excompressum:compressed_dust:3, Compressed Sand
+excompressum:compressed_dust:4, Compressed Dirt
+excompressum:compressed_dust:5, Compressed Flint
+excompressum:compressed_dust:6, Compressed Stone
+excompressum:compressed_dust:7, Compressed Netherrack
+excompressum:heavySieve:0, Heavy Oak Sieve
+excompressum:heavySieve:1, Heavy Spruce Sieve
+excompressum:heavySieve:2, Heavy Birch Sieve
+excompressum:heavySieve:3, Heavy Jungle Sieve
+excompressum:heavySieve:4, Heavy Acacia Sieve
+excompressum:heavySieve:5, Heavy Dark Oak Sieve
+excompressum:woodenCrucible:0, Oak Crucible
+excompressum:woodenCrucible:1, Spruce Crucible
+excompressum:woodenCrucible:2, Birch Crucible
+excompressum:woodenCrucible:3, Jungle Crucible
+excompressum:woodenCrucible:4, Acacia Crucible
+excompressum:woodenCrucible:5, Dark Oak Crucible
+excompressum:bait:0, Wolf Bait
+excompressum:bait:1, Ocelot Bait
+excompressum:bait:2, Cow Bait
+excompressum:bait:3, Pig Bait
+excompressum:bait:4, Chicken Bait
+excompressum:bait:5, Sheep Bait
+excompressum:bait:6, Squid Bait
+excompressum:autoHammer, Auto Hammer
+excompressum:autoCompressedHammer, Auto Compressed Hammer
+excompressum:autoSieve, Auto Sieve
+excompressum:autoHeavySieve, Auto Heavy Sieve
+excompressum:autoCompressor, Auto Compressor
+excompressum:manaSieve, Mana Sieve
 extracells:certustank, extracells.block.certustank.name
 extracells:walrus, Walrus
 extracells:fluidcrafter, ME Fluid Assembler
@@ -6719,38 +6799,38 @@ ExtraTiC:blockFunStuff:0, Fairy Block
 ExtraTiC:blockFunStuff:1, Pokefennium Block
 ExtraTiC:blockFunStuff:2, RedAurum Block
 FlatSigns:blockFlatSign, Sign
+ThaumicTinkerer:funnel, Essentia Funnel
+ThaumicTinkerer:interface, Transvector Interface
+ThaumicTinkerer:enchanter, Osmotic Enchanter
+ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
+ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
+ThaumicTinkerer:animationTablet, Dynamism Tablet
+ThaumicTinkerer:forcefield, Forcefield
+ThaumicTinkerer:magnet:0, Kinetic Attractor
+ThaumicTinkerer:magnet:1, Corporeal Attractor
+ThaumicTinkerer:nitorGas, tile.nitorGas.name
+ThaumicTinkerer:fireAir, Aer Imbued Fire
 ThaumicTinkerer:fireOrder, Ordo Imbued Fire
+ThaumicTinkerer:fireEarth, Terra Imbued Fire
+ThaumicTinkerer:fireFire, Ignis Imbued Fire
 ThaumicTinkerer:fireWater, Aqua Imbued Fire
-ThaumicTinkerer:bedrockPortal, Bedrock Portal
 ThaumicTinkerer:repairer, Thaumic Restorer
+ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
+ThaumicTinkerer:dislocator, Transvector Dislocator
+ThaumicTinkerer:fireChaos, Perditio Imbued Fire
+ThaumicTinkerer:platform, Ethereal Platform
+ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
+ThaumicTinkerer:bedrockPortal, Bedrock Portal
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
 ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
 ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
 ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
-ThaumicTinkerer:enchanter, Osmotic Enchanter
-ThaumicTinkerer:animationTablet, Dynamism Tablet
 ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
-ThaumicTinkerer:dislocator, Transvector Dislocator
-ThaumicTinkerer:fireEarth, Terra Imbued Fire
-ThaumicTinkerer:spawner, Tablet of Necromancy
-ThaumicTinkerer:forcefield, Forcefield
 ThaumicTinkerer:warpGate, Celestial Gateway
-ThaumicTinkerer:funnel, Essentia Funnel
-ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
-ThaumicTinkerer:nitorGas, tile.nitorGas.name
-ThaumicTinkerer:fireFire, Ignis Imbued Fire
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
-ThaumicTinkerer:platform, Ethereal Platform
-ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
-ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
-ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
-ThaumicTinkerer:magnet:0, Kinetic Attractor
-ThaumicTinkerer:magnet:1, Corporeal Attractor
-ThaumicTinkerer:interface, Transvector Interface
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
-ThaumicTinkerer:fireChaos, Perditio Imbued Fire
-ThaumicTinkerer:fireAir, Aer Imbued Fire
 ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
+ThaumicTinkerer:spawner, Tablet of Necromancy
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
 ForbiddenMagic:ArcaneCake, Thaumic Cake
 ForbiddenMagic:WrathCage, Wrath Cage
 ForbiddenMagic:InkFlower, Umbral Rose
@@ -7242,6 +7322,18 @@ Sanguimancy:BlockEtehrealToggled, Toggled Ethereal Block
 Sanguimancy:BlockEtherealBound, Bound Ethereal Block
 Sanguimancy:BlockEtherealBoundCorrupted, Bound Corrupted Ethereal Block
 Sanguimancy:BlockEtherealBoundToggled, Bound Toggled Ethereal Block
+minecraft:record_13, Music Disc
+minecraft:record_cat, Music Disc
+minecraft:record_blocks, Music Disc
+minecraft:record_chirp, Music Disc
+minecraft:record_far, Music Disc
+minecraft:record_mall, Music Disc
+minecraft:record_mellohi, Music Disc
+minecraft:record_stal, Music Disc
+minecraft:record_strad, Music Disc
+minecraft:record_ward, Music Disc
+minecraft:record_11, Music Disc
+minecraft:record_wait, Music Disc
 Sanguimancy:BlockEtherealPersonal, Personal Ethereal Block
 Sanguimancy:BlockAltarManipulator, Altar Manipulator
 SimpleLabels:label:0, Deep Storage Label
@@ -7552,18 +7644,6 @@ StorageDrawersNatura:trim:10, Willow Trim
 StorageDrawersNatura:trim:11, Darkwood Trim
 StorageDrawersNatura:trim:12, Fusewood Trim
 supercraftingframe:supercraftingframe, Super Crafting Frame
-minecraft:record_13, Music Disc
-minecraft:record_cat, Music Disc
-minecraft:record_blocks, Music Disc
-minecraft:record_chirp, Music Disc
-minecraft:record_far, Music Disc
-minecraft:record_mall, Music Disc
-minecraft:record_mellohi, Music Disc
-minecraft:record_stal, Music Disc
-minecraft:record_strad, Music Disc
-minecraft:record_ward, Music Disc
-minecraft:record_11, Music Disc
-minecraft:record_wait, Music Disc
 supercraftingframe:superitemframe, Super Item Frame
 supercraftingframe:supervoidframe, Super Void Frame
 thaumicbases:quicksilverBlock, Block of Quicksilver
@@ -9589,6 +9669,14 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Placeholder
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Placeholder
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Placeholder
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Placeholder
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Distortion Flame
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Draconium Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Draconium Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Charged Draconium Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Energy Pylon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Awakened Draconium Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Draconium Infused Obsidian
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Admin Dislocator
 appliedenergistics2:item.ItemFacade:0, Cable Facade - White Radiant Cloth
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Orange Radiant Cloth
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Magenta Radiant Cloth
@@ -9992,6 +10080,14 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Cobalt Ore Dust
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Ardite Ore Gravel
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Ardite Ore Sand
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Ardite Ore Dust
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Compressed Dust
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Compressed Cobblestone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Compressed Gravel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Compressed Sand
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Compressed Dirt
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Compressed Flint
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Compressed Stone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Compressed Netherrack
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Beehive
 appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.sink.name
 appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.sink.name
@@ -10002,10 +10098,10 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Compressed Salt Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Fairy Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Pokefennium Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - RedAurum Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Smokey Quartz
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Smokey Quartz Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Pillar Smokey Quartz Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Nether Star Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tainted Log
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tainted Planks
@@ -12750,6 +12846,74 @@ customnpcs:npcHeart, Heart
 customnpcs:npcMoney, Money
 customnpcs:npcNecklace, Necklace
 customnpcs:npcUsbStick, USB-Stick
+DraconicEvolution:draconicDistructionStaff:0, Draconic Staff of Power
+DraconicEvolution:draconicDistructionStaff:0, Draconic Staff of Power
+DraconicEvolution:draconicPickaxe:0, Draconic Pickaxe
+DraconicEvolution:draconicPickaxe:0, Draconic Pickaxe
+DraconicEvolution:draconicAxe:0, Draconic Axe
+DraconicEvolution:draconicAxe:0, Draconic Axe
+DraconicEvolution:draconicShovel:0, Draconic Shovel
+DraconicEvolution:draconicShovel:0, Draconic Shovel
+DraconicEvolution:draconicHoe, Draconic Hoe
+DraconicEvolution:draconicSword, Draconic Sword
+DraconicEvolution:draconicBow:0, Draconic Bow
+DraconicEvolution:draconicBow:0, Draconic Bow
+DraconicEvolution:draconicHelm, Draconic Helm
+DraconicEvolution:draconicChest, Draconic Chestplate
+DraconicEvolution:draconicLeggs, Draconic Leggings
+DraconicEvolution:draconicBoots, Draconic Boots
+DraconicEvolution:wyvernPickaxe:0, Pickaxe of the Wyvern
+DraconicEvolution:wyvernPickaxe:0, Pickaxe of the Wyvern
+DraconicEvolution:wyvernShovel:0, Shovel of the Wyvern
+DraconicEvolution:wyvernShovel:0, Shovel of the Wyvern
+DraconicEvolution:wyvernSword, Sword of the Wyvern
+DraconicEvolution:wyvernBow:0, Bow of the Wyvern
+DraconicEvolution:wyvernBow:0, Bow of the Wyvern
+DraconicEvolution:wyvernHelm, Wyvern Helm
+DraconicEvolution:wyvernChest, Wyvern Chestplate
+DraconicEvolution:wyvernLeggs, Wyvern Leggings
+DraconicEvolution:wyvernBoots, Wyvern Boots
+DraconicEvolution:draconicCore, Draconic Core
+DraconicEvolution:wyvernCore, Wyvern Core
+DraconicEvolution:awakenedCore, Awakened Core
+DraconicEvolution:chaoticCore, Chaotic Core
+DraconicEvolution:draconiumDust, Draconium Dust
+DraconicEvolution:draconiumIngot, Draconium Ingot
+DraconicEvolution:draconiumBlend, Draconium Blend (Depreciated)
+DraconicEvolution:dragonHeart, Dragon Heart
+DraconicEvolution:teleporterMKI, Charm of Dislocation
+DraconicEvolution:teleporterMKII, Enhanced Charm of Dislocation
+DraconicEvolution:tclogo, TCLogo
+DraconicEvolution:sunFocus, Solar Focus
+DraconicEvolution:mobSoul, Mob Soul
+DraconicEvolution:enderArrow, Ender Arrow
+DraconicEvolution:safetyMatch:0, Box of Safety Matches
+DraconicEvolution:safetyMatch:1000, Safety Match
+DraconicEvolution:key:0, Key
+DraconicEvolution:key:1, Key
+DraconicEvolution:creativeStructureSpawner:0, Spawn Comet
+DraconicEvolution:creativeStructureSpawner:1, Spawn Ender Island
+DraconicEvolution:adminSpawnEgg, item.draconicevolution:adminSpawnEgg.name
+DraconicEvolution:infoTablet, Draconic Evolution Information Tablet
+DraconicEvolution:draconicIngot, Awakened Draconium Ingot
+DraconicEvolution:draconiumEnergyCore:0, Wyvern Energy Core
+DraconicEvolution:draconiumEnergyCore:1, Draconic Energy Core
+DraconicEvolution:draconiumFluxCapacitor, item.draconicevolution:draconiumFluxCapacitor.name
+DraconicEvolution:wrench, Crystal Binder
+DraconicEvolution:chaosShard, Chaos Shard
+DraconicEvolution:reactorCraftingPart:0, Reactor Stabilizer Frame
+DraconicEvolution:reactorCraftingPart:1, Reactor Stabilizer Inner Rotor
+DraconicEvolution:reactorCraftingPart:2, Reactor Stabilizer Outer Rotor
+DraconicEvolution:reactorCraftingPart:3, Reactor Stabilizer Rotor Assembly
+DraconicEvolution:reactorCraftingPart:4, Reactor Stabilizer Focus Ring
+DraconicEvolution:nugget:0, Draconium Nugget
+DraconicEvolution:nugget:1, Awakened Draconium Nugget
+DraconicEvolution:chaosFragment:0, Tiny Chaos Fragment
+DraconicEvolution:chaosFragment:1, Small Chaos Fragment
+DraconicEvolution:chaosFragment:2, Large Chaos Fragment
+DraconicEvolution:magnet:0, Item Dislocator
+DraconicEvolution:magnet:1, Awakened Item Dislocator
+DraconicEvolution:dezilsMarshmallow, Dezil's Marshmallow
 druidry:SilverIngot, Silver Ingot
 druidry:IntroBook, Brief Primer in Druidry
 druidry:Branch, Branch
@@ -13861,6 +14025,8 @@ TConstruct:BoltPart:167, Sapphire Bolt
 TConstruct:BoltPart:171, Dark Steel Bolt
 TConstruct:BoltPart:172, Void Metal Bolt
 TConstruct:BoltPart:173, RedAurum Bolt
+TConstruct:BoltPart:178, Draconium Bolt
+TConstruct:BoltPart:179, Awakened Draconium Bolt
 TConstruct:BoltPart:180, Glue Bolt
 TConstruct:BoltPart:181, Yellorium Bolt
 TConstruct:BoltPart:182, Cyanite Bolt
@@ -13911,6 +14077,19 @@ exastris:chiselStone:0, Marble Stone
 exastris:chiselStone:1, Limestone Stone
 exastris:nuggetElectricalSteel, Electrical Steel Nugget
 exastris:manaHammer, Manasteel Hammer
+excompressum:chickenStick, Chicken Stick
+excompressum:compressedHammerWood, Compressed Wooden Hammer
+excompressum:compressedHammerStone, Compressed Stone Hammer
+excompressum:compressedHammerIron, Compressed Iron Hammer
+excompressum:compressedHammerGold, Compressed Gold Hammer
+excompressum:compressedHammerDiamond, Compressed Diamond Hammer
+excompressum:doubleCompressedDiamondHammer, Double Compressed Diamond Hammer
+excompressum:compressedCrook, Compressed Crook
+excompressum:heavySilkMesh, Heavy Silk Mesh
+excompressum:woodChipping, Wood Chippings
+excompressum:uncompressedCoal, Uncompressed Coal
+excompressum:batZapper, Bat Zapper
+excompressum:oreSmasher, Ore Smasher
 extracells:part.base:0, ME Fluid Export Bus
 extracells:part.base:1, ME Fluid Import Bus
 extracells:part.base:2, ME Fluid Storage Bus
@@ -14788,6 +14967,8 @@ ExtraTiC:arrowhead:167, Sapphire Arrowhead
 ExtraTiC:arrowhead:171, Dark Steel Arrowhead
 ExtraTiC:arrowhead:172, Void Metal Arrowhead
 ExtraTiC:arrowhead:173, RedAurum Arrowhead
+ExtraTiC:arrowhead:178, Draconium Arrowhead
+ExtraTiC:arrowhead:179, Awakened Draconium Arrowhead
 ExtraTiC:arrowhead:180, Glue Arrowhead
 ExtraTiC:arrowhead:181, Yellorium Arrowhead
 ExtraTiC:arrowhead:182, Cyanite Arrowhead
@@ -14820,6 +15001,8 @@ ExtraTiC:axeHead:167, Sapphire Axe Head
 ExtraTiC:axeHead:171, Dark Steel Axe Head
 ExtraTiC:axeHead:172, Void Metal Axe Head
 ExtraTiC:axeHead:173, RedAurum Axe Head
+ExtraTiC:axeHead:178, Draconium Axe Head
+ExtraTiC:axeHead:179, Awakened Draconium Axe Head
 ExtraTiC:axeHead:180, Glue Axe Head
 ExtraTiC:axeHead:181, Yellorium Axe Head
 ExtraTiC:axeHead:182, Cyanite Axe Head
@@ -14852,6 +15035,8 @@ ExtraTiC:battelSign:167, Sapphire Battle Sign
 ExtraTiC:battelSign:171, Dark Steel Battle Sign
 ExtraTiC:battelSign:172, Void Metal Battle Sign
 ExtraTiC:battelSign:173, RedAurum Battle Sign
+ExtraTiC:battelSign:178, Draconium Battle Sign
+ExtraTiC:battelSign:179, Awakened Draconium Battle Sign
 ExtraTiC:battelSign:180, Glue Battle Sign
 ExtraTiC:battelSign:181, Yellorium Battle Sign
 ExtraTiC:battelSign:182, Cyanite Battle Sign
@@ -14884,6 +15069,8 @@ ExtraTiC:binding:167, Sapphire Binding
 ExtraTiC:binding:171, Dark Steel Binding
 ExtraTiC:binding:172, Void Metal Binding
 ExtraTiC:binding:173, RedAurum Binding
+ExtraTiC:binding:178, Draconium Binding
+ExtraTiC:binding:179, Awakened Draconium Binding
 ExtraTiC:binding:180, Glue Binding
 ExtraTiC:binding:181, Yellorium Binding
 ExtraTiC:binding:182, Cyanite Binding
@@ -14916,6 +15103,8 @@ ExtraTiC:chiselHead:167, Sapphire Chisel Head
 ExtraTiC:chiselHead:171, Dark Steel Chisel Head
 ExtraTiC:chiselHead:172, Void Metal Chisel Head
 ExtraTiC:chiselHead:173, RedAurum Chisel Head
+ExtraTiC:chiselHead:178, Draconium Chisel Head
+ExtraTiC:chiselHead:179, Awakened Draconium Chisel Head
 ExtraTiC:chiselHead:180, Glue Chisel Head
 ExtraTiC:chiselHead:181, Yellorium Chisel Head
 ExtraTiC:chiselHead:182, Cyanite Chisel Head
@@ -14948,6 +15137,8 @@ ExtraTiC:chunk:167, Sapphire Chunk
 ExtraTiC:chunk:171, Dark Steel Chunk
 ExtraTiC:chunk:172, Void Metal Chunk
 ExtraTiC:chunk:173, RedAurum Chunk
+ExtraTiC:chunk:178, Draconium Chunk
+ExtraTiC:chunk:179, Awakened Draconium Chunk
 ExtraTiC:chunk:180, Glue Chunk
 ExtraTiC:chunk:181, Yellorium Chunk
 ExtraTiC:chunk:182, Cyanite Chunk
@@ -14980,6 +15171,8 @@ ExtraTiC:crossbar:167, Sapphire Crossbar
 ExtraTiC:crossbar:171, Dark Steel Crossbar
 ExtraTiC:crossbar:172, Void Metal Crossbar
 ExtraTiC:crossbar:173, RedAurum Crossbar
+ExtraTiC:crossbar:178, Draconium Crossbar
+ExtraTiC:crossbar:179, Awakened Draconium Crossbar
 ExtraTiC:crossbar:180, Glue Crossbar
 ExtraTiC:crossbar:181, Yellorium Crossbar
 ExtraTiC:crossbar:182, Cyanite Crossbar
@@ -15012,6 +15205,8 @@ ExtraTiC:excavatorHead:167, Sapphire Excavator Head
 ExtraTiC:excavatorHead:171, Dark Steel Excavator Head
 ExtraTiC:excavatorHead:172, Void Metal Excavator Head
 ExtraTiC:excavatorHead:173, RedAurum Excavator Head
+ExtraTiC:excavatorHead:178, Draconium Excavator Head
+ExtraTiC:excavatorHead:179, Awakened Draconium Excavator Head
 ExtraTiC:excavatorHead:180, Glue Excavator Head
 ExtraTiC:excavatorHead:181, Yellorium Excavator Head
 ExtraTiC:excavatorHead:182, Cyanite Excavator Head
@@ -15044,6 +15239,8 @@ ExtraTiC:frypanHead:167, Sapphire Pan Head
 ExtraTiC:frypanHead:171, Dark Steel Pan Head
 ExtraTiC:frypanHead:172, Void Metal Pan Head
 ExtraTiC:frypanHead:173, RedAurum Pan Head
+ExtraTiC:frypanHead:178, Draconium Pan Head
+ExtraTiC:frypanHead:179, Awakened Draconium Pan Head
 ExtraTiC:frypanHead:180, Glue Pan Head
 ExtraTiC:frypanHead:181, Yellorium Pan Head
 ExtraTiC:frypanHead:182, Cyanite Pan Head
@@ -15076,6 +15273,8 @@ ExtraTiC:fullGuard:167, Sapphire Full Guard
 ExtraTiC:fullGuard:171, Dark Steel Full Guard
 ExtraTiC:fullGuard:172, Void Metal Full Guard
 ExtraTiC:fullGuard:173, RedAurum Full Guard
+ExtraTiC:fullGuard:178, Draconium Full Guard
+ExtraTiC:fullGuard:179, Awakened Draconium Full Guard
 ExtraTiC:fullGuard:180, Glue Full Guard
 ExtraTiC:fullGuard:181, Yellorium Full Guard
 ExtraTiC:fullGuard:182, Cyanite Full Guard
@@ -15108,6 +15307,8 @@ ExtraTiC:hammerHead:167, Sapphire Hammer Head
 ExtraTiC:hammerHead:171, Dark Steel Hammer Head
 ExtraTiC:hammerHead:172, Void Metal Hammer Head
 ExtraTiC:hammerHead:173, RedAurum Hammer Head
+ExtraTiC:hammerHead:178, Draconium Hammer Head
+ExtraTiC:hammerHead:179, Awakened Draconium Hammer Head
 ExtraTiC:hammerHead:180, Glue Hammer Head
 ExtraTiC:hammerHead:181, Yellorium Hammer Head
 ExtraTiC:hammerHead:182, Cyanite Hammer Head
@@ -15140,6 +15341,8 @@ ExtraTiC:knifeBlade:167, Sapphire Knife Blade
 ExtraTiC:knifeBlade:171, Dark Steel Knife Blade
 ExtraTiC:knifeBlade:172, Void Metal Knife Blade
 ExtraTiC:knifeBlade:173, RedAurum Knife Blade
+ExtraTiC:knifeBlade:178, Draconium Knife Blade
+ExtraTiC:knifeBlade:179, Awakened Draconium Knife Blade
 ExtraTiC:knifeBlade:180, Glue Knife Blade
 ExtraTiC:knifeBlade:181, Yellorium Knife Blade
 ExtraTiC:knifeBlade:182, Cyanite Knife Blade
@@ -15172,6 +15375,8 @@ ExtraTiC:largeGuard:167, Sapphire Large Guard
 ExtraTiC:largeGuard:171, Dark Steel Large Guard
 ExtraTiC:largeGuard:172, Void Metal Large Guard
 ExtraTiC:largeGuard:173, RedAurum Large Guard
+ExtraTiC:largeGuard:178, Draconium Large Guard
+ExtraTiC:largeGuard:179, Awakened Draconium Large Guard
 ExtraTiC:largeGuard:180, Glue Large Guard
 ExtraTiC:largeGuard:181, Yellorium Large Guard
 ExtraTiC:largeGuard:182, Cyanite Large Guard
@@ -15204,6 +15409,8 @@ ExtraTiC:largeSwordBlade:167, Sapphire Large Sword Blade
 ExtraTiC:largeSwordBlade:171, Dark Steel Large Sword Blade
 ExtraTiC:largeSwordBlade:172, Void Metal Large Sword Blade
 ExtraTiC:largeSwordBlade:173, RedAurum Large Sword Blade
+ExtraTiC:largeSwordBlade:178, Draconium Large Sword Blade
+ExtraTiC:largeSwordBlade:179, Awakened Draconium Large Sword Blade
 ExtraTiC:largeSwordBlade:180, Glue Large Sword Blade
 ExtraTiC:largeSwordBlade:181, Yellorium Large Sword Blade
 ExtraTiC:largeSwordBlade:182, Cyanite Large Sword Blade
@@ -15236,6 +15443,8 @@ ExtraTiC:largeplate:167, Sapphire Large Plate
 ExtraTiC:largeplate:171, Dark Steel Large Plate
 ExtraTiC:largeplate:172, Void Metal Large Plate
 ExtraTiC:largeplate:173, RedAurum Large Plate
+ExtraTiC:largeplate:178, Draconium Large Plate
+ExtraTiC:largeplate:179, Awakened Draconium Large Plate
 ExtraTiC:largeplate:180, Glue Large Plate
 ExtraTiC:largeplate:181, Yellorium Large Plate
 ExtraTiC:largeplate:182, Cyanite Large Plate
@@ -15268,6 +15477,8 @@ ExtraTiC:lumberaxeHead:167, Sapphire Broad Axe Head
 ExtraTiC:lumberaxeHead:171, Dark Steel Broad Axe Head
 ExtraTiC:lumberaxeHead:172, Void Metal Broad Axe Head
 ExtraTiC:lumberaxeHead:173, RedAurum Broad Axe Head
+ExtraTiC:lumberaxeHead:178, Draconium Broad Axe Head
+ExtraTiC:lumberaxeHead:179, Awakened Draconium Broad Axe Head
 ExtraTiC:lumberaxeHead:180, Glue Broad Axe Head
 ExtraTiC:lumberaxeHead:181, Yellorium Broad Axe Head
 ExtraTiC:lumberaxeHead:182, Cyanite Broad Axe Head
@@ -15300,6 +15511,8 @@ ExtraTiC:mediumGuard:167, Sapphire Medium Guard
 ExtraTiC:mediumGuard:171, Dark Steel Medium Guard
 ExtraTiC:mediumGuard:172, Void Metal Medium Guard
 ExtraTiC:mediumGuard:173, RedAurum Medium Guard
+ExtraTiC:mediumGuard:178, Draconium Medium Guard
+ExtraTiC:mediumGuard:179, Awakened Draconium Medium Guard
 ExtraTiC:mediumGuard:180, Glue Medium Guard
 ExtraTiC:mediumGuard:181, Yellorium Medium Guard
 ExtraTiC:mediumGuard:182, Cyanite Medium Guard
@@ -15332,6 +15545,8 @@ ExtraTiC:pickaxeHead:167, Sapphire Pickaxe Head
 ExtraTiC:pickaxeHead:171, Dark Steel Pickaxe Head
 ExtraTiC:pickaxeHead:172, Void Metal Pickaxe Head
 ExtraTiC:pickaxeHead:173, RedAurum Pickaxe Head
+ExtraTiC:pickaxeHead:178, Draconium Pickaxe Head
+ExtraTiC:pickaxeHead:179, Awakened Draconium Pickaxe Head
 ExtraTiC:pickaxeHead:180, Glue Pickaxe Head
 ExtraTiC:pickaxeHead:181, Yellorium Pickaxe Head
 ExtraTiC:pickaxeHead:182, Cyanite Pickaxe Head
@@ -15364,6 +15579,8 @@ ExtraTiC:scytheHead:167, Sapphire Scythe Head
 ExtraTiC:scytheHead:171, Dark Steel Scythe Head
 ExtraTiC:scytheHead:172, Void Metal Scythe Head
 ExtraTiC:scytheHead:173, RedAurum Scythe Head
+ExtraTiC:scytheHead:178, Draconium Scythe Head
+ExtraTiC:scytheHead:179, Awakened Draconium Scythe Head
 ExtraTiC:scytheHead:180, Glue Scythe Head
 ExtraTiC:scytheHead:181, Yellorium Scythe Head
 ExtraTiC:scytheHead:182, Cyanite Scythe Head
@@ -15396,6 +15613,8 @@ ExtraTiC:shovelHead:167, Sapphire Shovel Head
 ExtraTiC:shovelHead:171, Dark Steel Shovel Head
 ExtraTiC:shovelHead:172, Void Metal Shovel Head
 ExtraTiC:shovelHead:173, RedAurum Shovel Head
+ExtraTiC:shovelHead:178, Draconium Shovel Head
+ExtraTiC:shovelHead:179, Awakened Draconium Shovel Head
 ExtraTiC:shovelHead:180, Glue Shovel Head
 ExtraTiC:shovelHead:181, Yellorium Shovel Head
 ExtraTiC:shovelHead:182, Cyanite Shovel Head
@@ -15428,6 +15647,8 @@ ExtraTiC:swordBlade:167, Sapphire Sword Blade
 ExtraTiC:swordBlade:171, Dark Steel Sword Blade
 ExtraTiC:swordBlade:172, Void Metal Sword Blade
 ExtraTiC:swordBlade:173, RedAurum Sword Blade
+ExtraTiC:swordBlade:178, Draconium Sword Blade
+ExtraTiC:swordBlade:179, Awakened Draconium Sword Blade
 ExtraTiC:swordBlade:180, Glue Sword Blade
 ExtraTiC:swordBlade:181, Yellorium Sword Blade
 ExtraTiC:swordBlade:182, Cyanite Sword Blade
@@ -15460,6 +15681,8 @@ ExtraTiC:toolrod:167, Sapphire Tool Rod
 ExtraTiC:toolrod:171, Dark Steel Tool Rod
 ExtraTiC:toolrod:172, Void Metal Tool Rod
 ExtraTiC:toolrod:173, RedAurum Tool Rod
+ExtraTiC:toolrod:178, Draconium Tool Rod
+ExtraTiC:toolrod:179, Awakened Draconium Tool Rod
 ExtraTiC:toolrod:180, Glue Tool Rod
 ExtraTiC:toolrod:181, Yellorium Tool Rod
 ExtraTiC:toolrod:182, Cyanite Tool Rod
@@ -15492,6 +15715,8 @@ ExtraTiC:toughbind:167, Sapphire Tough Binding
 ExtraTiC:toughbind:171, Dark Steel Tough Binding
 ExtraTiC:toughbind:172, Void Metal Tough Binding
 ExtraTiC:toughbind:173, RedAurum Tough Binding
+ExtraTiC:toughbind:178, Draconium Tough Binding
+ExtraTiC:toughbind:179, Awakened Draconium Tough Binding
 ExtraTiC:toughbind:180, Glue Tough Binding
 ExtraTiC:toughbind:181, Yellorium Tough Binding
 ExtraTiC:toughbind:182, Cyanite Tough Binding
@@ -15524,6 +15749,8 @@ ExtraTiC:toughrod:167, Sapphire Tough Rod
 ExtraTiC:toughrod:171, Dark Steel Tough Rod
 ExtraTiC:toughrod:172, Void Metal Tough Rod
 ExtraTiC:toughrod:173, RedAurum Tough Rod
+ExtraTiC:toughrod:178, Draconium Tough Rod
+ExtraTiC:toughrod:179, Awakened Draconium Tough Rod
 ExtraTiC:toughrod:180, Glue Tough Rod
 ExtraTiC:toughrod:181, Yellorium Tough Rod
 ExtraTiC:toughrod:182, Cyanite Tough Rod
@@ -15556,6 +15783,8 @@ ExtraTiC:shuriken:167, Sapphire Shuriken
 ExtraTiC:shuriken:171, Dark Steel Shuriken
 ExtraTiC:shuriken:172, Void Metal Shuriken
 ExtraTiC:shuriken:173, RedAurum Shuriken
+ExtraTiC:shuriken:178, Draconium Shuriken
+ExtraTiC:shuriken:179, Awakened Draconium Shuriken
 ExtraTiC:shuriken:180, Glue Shuriken
 ExtraTiC:shuriken:181, Yellorium Shuriken
 ExtraTiC:shuriken:182, Cyanite Shuriken
@@ -15588,6 +15817,8 @@ ExtraTiC:BowLimb:167, Sapphire Bow Limb
 ExtraTiC:BowLimb:171, Dark Steel Bow Limb
 ExtraTiC:BowLimb:172, Void Metal Bow Limb
 ExtraTiC:BowLimb:173, RedAurum Bow Limb
+ExtraTiC:BowLimb:178, Draconium Bow Limb
+ExtraTiC:BowLimb:179, Awakened Draconium Bow Limb
 ExtraTiC:BowLimb:180, Glue Bow Limb
 ExtraTiC:BowLimb:181, Yellorium Bow Limb
 ExtraTiC:BowLimb:182, Cyanite Bow Limb
@@ -15620,6 +15851,8 @@ ExtraTiC:CrossbowLimb:167, Sapphire Crossbow Limb
 ExtraTiC:CrossbowLimb:171, Dark Steel Crossbow Limb
 ExtraTiC:CrossbowLimb:172, Void Metal Crossbow Limb
 ExtraTiC:CrossbowLimb:173, RedAurum Crossbow Limb
+ExtraTiC:CrossbowLimb:178, Draconium Crossbow Limb
+ExtraTiC:CrossbowLimb:179, Awakened Draconium Crossbow Limb
 ExtraTiC:CrossbowLimb:180, Glue Crossbow Limb
 ExtraTiC:CrossbowLimb:181, Yellorium Crossbow Limb
 ExtraTiC:CrossbowLimb:182, Cyanite Crossbow Limb
@@ -15652,6 +15885,8 @@ ExtraTiC:CrossbowBody:167, Sapphire Crossbow Body
 ExtraTiC:CrossbowBody:171, Dark Steel Crossbow Body
 ExtraTiC:CrossbowBody:172, Void Metal Crossbow Body
 ExtraTiC:CrossbowBody:173, RedAurum Crossbow Body
+ExtraTiC:CrossbowBody:178, Draconium Crossbow Body
+ExtraTiC:CrossbowBody:179, Awakened Draconium Crossbow Body
 ExtraTiC:CrossbowBody:180, Glue Crossbow Body
 ExtraTiC:CrossbowBody:181, Yellorium Crossbow Body
 ExtraTiC:CrossbowBody:182, Cyanite Crossbow Body
@@ -15684,6 +15919,8 @@ ExtraTiC:Blot:167, Sapphire Bolt
 ExtraTiC:Blot:171, Dark Steel Bolt
 ExtraTiC:Blot:172, Void Metal Bolt
 ExtraTiC:Blot:173, RedAurum Bolt
+ExtraTiC:Blot:178, Draconium Bolt
+ExtraTiC:Blot:179, Awakened Draconium Bolt
 ExtraTiC:Blot:180, Glue Bolt
 ExtraTiC:Blot:181, Yellorium Bolt
 ExtraTiC:Blot:182, Cyanite Bolt
@@ -19535,6 +19772,17 @@ ThermalDynamics:cover:0, Crystal Cover
 ThermalDynamics:cover:0, Crystal Cover
 ThermalDynamics:cover:0, Crystal Cover
 ThermalDynamics:cover:0, Crystal Cover
+ThermalDynamics:cover:0, Distortion Flame Cover
+ThermalDynamics:cover:0, Draconium Ore Cover
+ThermalDynamics:cover:0, Rain Sensor Cover
+ThermalDynamics:cover:0, Draconium Block Cover
+ThermalDynamics:cover:0, Charged Draconium Block Cover
+ThermalDynamics:cover:0, Energy Pylon Cover
+ThermalDynamics:cover:0, tile.draconicevolution:safetyFlame.name Cover
+ThermalDynamics:cover:0, Awakened Draconium Block Cover
+ThermalDynamics:cover:0, Draconium Infused Obsidian Cover
+ThermalDynamics:cover:0, Admin Dislocator Cover
+ThermalDynamics:cover:0, tile.draconicevolution:chaosShardAtmos.name Cover
 ThermalDynamics:cover:0, Black Skye Flower Cover
 ThermalDynamics:cover:0, Purple Skye Flower Cover
 ThermalDynamics:cover:0, Green Skye Flower Cover
@@ -20192,6 +20440,14 @@ ThermalDynamics:cover:0, Cobalt Ore Dust Cover
 ThermalDynamics:cover:0, Ardite Ore Gravel Cover
 ThermalDynamics:cover:0, Ardite Ore Sand Cover
 ThermalDynamics:cover:0, Ardite Ore Dust Cover
+ThermalDynamics:cover:0, Compressed Dust Cover
+ThermalDynamics:cover:0, Compressed Cobblestone Cover
+ThermalDynamics:cover:0, Compressed Gravel Cover
+ThermalDynamics:cover:0, Compressed Sand Cover
+ThermalDynamics:cover:0, Compressed Dirt Cover
+ThermalDynamics:cover:0, Compressed Flint Cover
+ThermalDynamics:cover:0, Compressed Stone Cover
+ThermalDynamics:cover:0, Compressed Netherrack Cover
 ThermalDynamics:cover:0, Cutting Board Cover
 ThermalDynamics:cover:0, Pot Cover
 ThermalDynamics:cover:0, Beehive Cover
@@ -20399,22 +20655,22 @@ ThermalDynamics:cover:0, Molten Constantan Cover
 ThermalDynamics:cover:0, Fairy Block Cover
 ThermalDynamics:cover:0, Pokefennium Block Cover
 ThermalDynamics:cover:0, RedAurum Block Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, tile.nitorGas.name Cover
+ThermalDynamics:cover:0, Aer Imbued Fire Cover
 ThermalDynamics:cover:0, Ordo Imbued Fire Cover
+ThermalDynamics:cover:0, Terra Imbued Fire Cover
+ThermalDynamics:cover:0, Ignis Imbued Fire Cover
 ThermalDynamics:cover:0, Aqua Imbued Fire Cover
+ThermalDynamics:cover:0, Perditio Imbued Fire Cover
+ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
 ThermalDynamics:cover:0, Bedrock Portal Cover
+ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
 ThermalDynamics:cover:0, Block of Smokey Quartz Cover
 ThermalDynamics:cover:0, Chiseled Smokey Quartz Block Cover
 ThermalDynamics:cover:0, Pillar Smokey Quartz Block Cover
-ThermalDynamics:cover:0, Terra Imbued Fire Cover
-ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
-ThermalDynamics:cover:0, tile.nitorGas.name Cover
-ThermalDynamics:cover:0, Ignis Imbued Fire Cover
 ThermalDynamics:cover:0, tile.gaseousLight.name Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
-ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
-ThermalDynamics:cover:0, Perditio Imbued Fire Cover
-ThermalDynamics:cover:0, Aer Imbued Fire Cover
 ThermalDynamics:cover:0, Thaumic Cake Cover
 ThermalDynamics:cover:0, Umbral Rose Cover
 ThermalDynamics:cover:0, Nether Star Block Cover
